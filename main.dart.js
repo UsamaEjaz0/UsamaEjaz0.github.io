@@ -38970,7 +38970,7 @@ r=s.Q
 return A.a0(q,A.c7(A.b([A.aiM(40,r),new A.db(1,q),A.fQ(!1,!0,A.ZK(B.AK,r,30),q,!0,q,q,q,q,q,q,q,q,q,s.r,q,q,q)],t.p),B.w,B.o,B.p,q),B.j,q,q,q,q,q,q,q,B.AD,q,q,p.a.a)}else return s.acd(a)},
 $S:52}
 A.a13.prototype={
-$0(){A.fa("assets/assets/images/DAVID_COBBINA_CV.pdf")},
+$0(){A.fa("assets/documents/Usama_Ejaz_Resume.pdf")},
 $S:0}
 A.a11.prototype={
 $0(){this.a.ch.$1(this.b[this.c].b)},
